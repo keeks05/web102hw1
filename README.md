@@ -1,6 +1,6 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Community Board
 
-Submitted by: **Your Name Here**
+Submitted by: Enrique Melgoza
 
 This web app: community board 
 
@@ -26,15 +26,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/keeks05/web102hw1/blob/main/hw1web102.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
+Adobe Tools 
 ## Notes
 
 Describe any challenges encountered while building the app.
