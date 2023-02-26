@@ -1,0 +1,41 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #370617;
+  width: 100%;
+  height: fit-content;
+}
+h1, h4 {
+   color: #dc2f02;
+}
+
+.scheduleContainer {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   width: fit-content;
+   height: fit-content;
+}
+
+.scheduleContainer > div {
+   background-color: #6a040f;
+   width: 350px;
+   height: 450px;
+   margin: 30px;
+   padding-bottom: 30px;
+   padding-left: 30px;
+   padding-right: 30px;
+   font-weight: 500;
+   font-size: 1.2em;
+   color: #faa307;
+   border-bottom-left-radius: 5%;
+   border-bottom-right-radius: 5%;
+}
+.scheduleContainer > div > img {
+   height: 200px;
+   padding-top: 20px;
+}
+p > b {
+   font-size: 1.18em;
+}
